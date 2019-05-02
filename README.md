@@ -111,6 +111,7 @@ Supported by / 支持者:
 * Chelsea Wang, Product Designer, Facebook
 * Chen Hailin, Student, Nanyang Technological University
 * Chen Jian, Network Engineer, Suzhou
+* Chen Kenan, student, Zhoushan Technician College
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
